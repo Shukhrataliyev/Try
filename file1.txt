@@ -1,1 +1,2 @@
 trying add somestuff
+I added second line and trying to add new with commit
